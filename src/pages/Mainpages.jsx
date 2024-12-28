@@ -98,7 +98,7 @@ const Mainpages = () => {
   return (
     <div>
       
-      <div className=" flex flex-col items-center p-6 space-x-6 bg-white rounded-xl shadow-lg hover:shadow-xl justify-center mx-1 mt-2">
+      <div className=" flex flex-col gap-2 items-center p-6 space-x-6 bg-white rounded-xl shadow-lg hover:shadow-xl justify-center mx-1 mt-2">
         <div className="flex bg-gray-100 p-4 gap-05   rounded-lg">
           <svg
             xmlns="http://www.w3.org/2000/svg"
